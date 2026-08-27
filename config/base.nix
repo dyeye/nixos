@@ -53,6 +53,9 @@
     # media-session.enable = true;
   };
 
+  # Enable Flatpak support.
+  services.flatpak.enable = true;
+
   # User account.
   users.users."dyeye" = {
     isNormalUser = true;

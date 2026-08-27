@@ -26,6 +26,5 @@
     alacritty
     fastfetch
     comma
-    flatpak
   ];
 }
