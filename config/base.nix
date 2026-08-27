@@ -52,7 +52,7 @@
   # User account.
   users.users."dyeye" = {
     isNormalUser = true;
-    description = "Maximo Gomez Cruz";
+    description = "Maximo Gomez Cruz aka dyeye";
     extraGroups = [ "networkmanager" "wheel" ];
   };
 
