@@ -15,5 +15,6 @@
     git
     gh
     alacritty
+    fastfetch
   ];
 }
