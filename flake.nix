@@ -13,7 +13,6 @@
       specialArgs = { inherit inputs; };
       modules = [
         ./config/system.nix
-        ./config/desktop/gnome.nix
         ./config/desktop/plasma.nix
         home-manager.nixosModules.home-manager
         {

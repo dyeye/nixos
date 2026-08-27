@@ -1,10 +1,15 @@
-# Things to do later
-## Desktop enviroments
-1. Gnome (Works) [x]
-2. NiriWM (i'm gonna die🤓) [ ]
+# Cosas por hacer después
 
-## Preinstalled apps on base nix
-- alacritty as a default terminal (100%)
+## Escritorios
+1. KDE Plasma (Funciona) [x]
+2. GNOME (Eliminado) [x]
+3. Hyprland (solo tema de caleestia, para un futuro) [ ]
+
+## Apps preinstaladas en base nix
+- alacritty como terminal por defecto (100%)
 - git
 - gh
-- node
+- node (pendiente)
+
+## Fixes pendientes
+- Chrome / itch abren mil instancias y no dejan iniciar sesión por OAuth
