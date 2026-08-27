@@ -14,5 +14,6 @@
     openjdk
     git
     gh
+    alacritty
   ];
 }
