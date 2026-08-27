@@ -15,5 +15,8 @@
     protonplus
   ];
 
+  # nix-index-database: `comma` para ejecutar binarios sin instalarlos.
+  programs.nix-index-database.comma.enable = true;
+
   programs.home-manager.enable = true;
 }
