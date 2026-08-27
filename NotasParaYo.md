@@ -4,3 +4,6 @@
 Esto es mas complicado de lo que imaginaba xd. Pero poco a poco se aprende señores.
 - Me mama el poder tener todo super separado. 
 - Quiero tener gnome y algo con hyprland, veremos como hacer eso en despues. Revisar [TODO.md](https://github.com/dyeye/nixos/blob/main/TODO.md)
+
+# Cap S/N: Fixes
+- Sabian que chrome e icth abren como mil instancias de si mismos y nunca me deja iniciar sesion por OAuth xd. TODO: Revsiar porque sucede y si hay solucion: [Buscando ...]

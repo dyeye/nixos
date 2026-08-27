@@ -14,6 +14,7 @@
       modules = [
         ./config/system.nix
         ./config/desktop/gnome.nix
+        ./config/desktop/plasma.nix
         home-manager.nixosModules.home-manager
         {
           nix.settings.experimental-features = [ "nix-command" "flakes" ];

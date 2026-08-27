@@ -8,6 +8,11 @@
     vscode
     google-chrome
     opencode
+
+    # Gaming
+    itch
+    heroic
+    protonplus
   ];
 
   programs.home-manager.enable = true;

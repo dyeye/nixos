@@ -6,8 +6,8 @@
     ./base.nix
   ];
 
-  # Install firefox.
-  programs.firefox.enable = true;
+  programs.steam.enable = true;
+  programs.gamemode.enable = true;
 
   environment.systemPackages = with pkgs; [
     neovim
