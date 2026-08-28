@@ -4,6 +4,7 @@
 {
   imports = [
     ./hardware-configuration.nix
+    ./desktop/touchscreen-fix.nix
   ];
 
   # Bootloader.
